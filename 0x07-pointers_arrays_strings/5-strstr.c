@@ -1,4 +1,3 @@
-es (28 sloc) 621 Bytes
 #include "main.h"
 
 /**
@@ -30,3 +29,4 @@ char *_strstr(char *haystack, char *needle)
 	}
 	return (0);
 }
+
